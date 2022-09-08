@@ -1,8 +1,16 @@
 {
   "notes": [
     {
-      "content": "This is a test",
-      "id": "1662589292701"
+      "id": "1662666957890",
+      "content": "This is an example application of how to implement NgRx in Angular apps"
+    },
+    {
+      "id": "1662667028250",
+      "content": "All of the NgRx logic is located in src/app/state/note"
+    },
+    {
+      "id": "1662667084215",
+      "content": "The component you are viewing that displays this note list is NoteComponent"
     }
   ]
 }
